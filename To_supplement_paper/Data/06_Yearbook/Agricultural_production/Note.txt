@@ -1,0 +1,4 @@
+Hebei: 		Does not have [Rapeseed,Pork, Beef, Mutton, Milk]
+Beijing：		Does not have [Rapeseed]
+Shandong：		Does not have [Wheat]
+Jiangsu:		Does not have city level stats.

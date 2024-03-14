@@ -1,0 +1,33 @@
+# Ignore all csv files
+**.csv
+
+# Ignore all tif files
+**.tif
+**.tiff
+
+# Ignore all pkl files
+**.pkl
+
+# Ignore all npy files
+**.npy
+
+# Ignore all vscode settings
+**.vscode
+
+# Ignore all python cache files
+**__pycache__
+
+# Ignore all .gz files
+**.gz
+
+# Ignore all .zip files
+**.zip
+
+# Ignore all .tar files 
+**.tar
+
+# All jupyter checkpoints
+**.ipynb_checkpoints
+
+# All xls files
+**.xls
